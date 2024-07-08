@@ -1,4 +1,4 @@
-===========================================
+===========================================\\
 Environment Setup for Running the Application:
 
 - **IDE**: Android Studio Iguana | 2023.2.1
@@ -9,7 +9,7 @@ Environment Setup for Running the Application:
 - **Access Account**:
   - Because the project uses Firebase Authentication and Google Sign-In for login functionality, users must use their Google account to sign in.
 
-===========================================
+===========================================\\
 Notes:
 - **Firestore**: The application utilizes Firestore, a cloud storage solution on Firebase.
 - **Keystore Specification**: For some devices, to run the application in debug mode and access Firebase, it's crucial to specify the device's keystore.
