@@ -1,3 +1,5 @@
+You can also view a [video demo](https://www.youtube.com/watch?v=4rEh9muRrfM) of the application.
+
 ## Environment Setup for Running the Application
 
 ### IDE
